@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/masonry-layout/static/css/main.ebc257cf.css",
+    "main.js": "/masonry-layout/static/js/main.3a6da287.js",
+    "index.html": "/masonry-layout/index.html",
+    "main.ebc257cf.css.map": "/masonry-layout/static/css/main.ebc257cf.css.map",
+    "main.3a6da287.js.map": "/masonry-layout/static/js/main.3a6da287.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc257cf.css",
+    "static/js/main.3a6da287.js"
+  ]
+}
